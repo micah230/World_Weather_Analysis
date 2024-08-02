@@ -4,6 +4,7 @@
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
+# Adding config.py file.
 api_keys.py
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
